@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guestline", "Guestline\Guestline.csproj", "{12F6E363-5566-4E06-ABB4-61F32115FA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestlineTests", "GuestlineTests\GuestlineTests.csproj", "{8FA847BA-B66E-49BC-A76B-D518E61FF6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F6E363-5566-4E06-ABB4-61F32115FA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F6E363-5566-4E06-ABB4-61F32115FA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F6E363-5566-4E06-ABB4-61F32115FA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F6E363-5566-4E06-ABB4-61F32115FA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA847BA-B66E-49BC-A76B-D518E61FF6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA847BA-B66E-49BC-A76B-D518E61FF6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA847BA-B66E-49BC-A76B-D518E61FF6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA847BA-B66E-49BC-A76B-D518E61FF6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4340080F-66BE-4A07-9581-D2DB5636E06A}
+	EndGlobalSection
+EndGlobal
